@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>PolyWallet.Core</RootNamespace>
+    <AssemblyName>PolyWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
